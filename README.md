@@ -12,7 +12,7 @@ https://nodejs.org/es/download/
 This will clone the project.
 ```
 $ git clone https://github.com/Kar1stan/HangmanGame.git
-$ cd MadLibs
+$ cd HangmanGame
 $ npm install
 ```
 
