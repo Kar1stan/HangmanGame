@@ -13,7 +13,7 @@ This will clone the project.
 ```
 $ git clone https://github.com/Kar1stan/HangmanGame.git
 $ cd HangmanGame
-$ npm install
+$ pip install
 ```
 
 ## 🚀 Run the project
